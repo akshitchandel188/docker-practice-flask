@@ -1,0 +1,19 @@
+
+# Python virtual environment
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Editor temporary files
+*.swp
+*.swo
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Allow a safe example configuration file
+!.env.example
